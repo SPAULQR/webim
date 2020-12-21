@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">notes_testwork</string>
+    <string name="header">Заголовок</string>
+    <string name="description">Описание</string>
+    <string name="edit_description">Пожалуйста, заполните поля, чтобы создать заметку</string>
+    <string name="create">Создать</string>
+    <string name="cancel_button">Отменить</string>
+    <string name="title_bar">Ваш любимый заметочник</string>
+</resources>
